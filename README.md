@@ -7,6 +7,6 @@
     - Dataverse Api 를 데이터 서버로 사용하는 예제 생성
     - Power Automate, Power BI 등의 Power Platform 예제 생성
 
-
+사용 IDE : Visual Studio
 
 파워 플랫폼의 기능들을 Blazor Web Assembly에서 Power Platform의 기능을 사용하는 예제를 만들 예정입니다. 초기에는 C#과 기초적인 프로젝트 생성방법은 아는 것으로 생각하고 진행할 예정입니다.

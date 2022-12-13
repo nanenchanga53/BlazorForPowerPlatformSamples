@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/AzureB2C_샘플/BlazorB2CStartSample/Client/wwwroot/appsettings.json
+/DataverseAPI로연결/BlazorDVAPIDemo/wwwroot/appsettings.json
